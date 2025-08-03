@@ -42,8 +42,8 @@ This repository contains a **professional-grade 4-bit ALU** implemented in Veril
 | `0101` | OR        | A \| B | Logical OR    | Z              |
 | `0110` | XOR       | A ⊕ B  | Logical XOR   | Z              |
 | `0111` | NOT       | ~A     | Logical NOT   | Z              |
-| `1000` | SHL       | A << 1 | Shift Left   | Z, C           |
-| `1001` | SHR       | A >> 1 | Shift Right  | Z, C           |
+| `1000` | SHL       | A << 1 | Shift Left    |Z, C            |
+| `1001` | SHR       | A >> 1 | Shift Right   |Z, C            |
 | `1010` | PASS      | A      | Pass Through  | Z              |
 | `1011` | ZERO      | 0      | Output Zero   | Z              |
 
@@ -226,11 +226,7 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 
 ---
 
-## 📞 Support & Contact
 
-- 🐛 Bug Reports: [Open an issue](https://github.com/yourusername/4bit-alu-verilog/issues)  
-- 💡 Feature Requests: [Request a feature](https://github.com/yourusername/4bit-alu-verilog/issues/new)  
-- 📧 Contact: your.email@domain.com  
 
 ---
 
@@ -250,8 +246,8 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ### ⭐ Star this repo if you found it helpful! ⭐
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by Apratim Phadke 
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/4bit-alu-verilog.svg?style=social&label=Star)](https://github.com/yourusername/4bit-alu-verilog)  
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/4bit-alu-verilog.svg?style=social&label=Fork)](https://github.com/yourusername/4bit-alu-verilog/fork)
+[![GitHub stars](https://img.shields.io/github/stars/ApratimPhadke/4bit-alu-verilog.svg?style=social&label=Star)](https://github.com/yourusername/4bit-alu-verilog)  
+[![GitHub forks](https://img.shields.io/github/forks/ApratimPhadke/4bit-alu-verilog.svg?style=social&label=Fork)](https://github.com/yourusername/4bit-alu-verilog/fork)
 
