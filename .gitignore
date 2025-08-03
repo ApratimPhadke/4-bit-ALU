@@ -1,0 +1,40 @@
+# Vivado temporaries
+*.jou
+*.log
+*.str
+*.mif
+
+# Vivado databases and auto-generated folders
+.sim/
+.cache/
+.hw/
+.ip_user_files/
+.sim/
+.xpr
+.Xil/
+webtalk_*
+*.runs/
+*.gen/
+*.srcs/
+*.data/
+*.d/
+*.sim/
+*.restore.log
+*.marks
+*.wdb
+*.wcfg
+*.xml
+
+# General
+*.tmp
+*.backup
+*.bak
+*.swp
+*.swo
+*.vcd
+*.vvp
+
+# OS files
+.DS_Store
+Thumbs.db
+
