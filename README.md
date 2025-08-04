@@ -248,6 +248,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 Made with ❤️ by Apratim Phadke 
 
-[![GitHub stars](https://img.shields.io/github/stars/ApratimPhadke/4bit-alu-verilog.svg?style=social&label=Star)](https://github.com/yourusername/4bit-alu-verilog)  
-[![GitHub forks](https://img.shields.io/github/forks/ApratimPhadke/4bit-alu-verilog.svg?style=social&label=Fork)](https://github.com/yourusername/4bit-alu-verilog/fork)
+[![GitHub stars](https://img.shields.io/github/stars/ApratimPhadke/4bit-alu-verilog.svg?style=social&label=Star)](https://github.com/ApratimPhadke/4bit-alu-verilog)  
+[![GitHub forks](https://img.shields.io/github/forks/ApratimPhadke/4bit-alu-verilog.svg?style=social&label=Fork)](https://github.com/ApratimPhadke/4bit-alu-verilog/fork)
 
