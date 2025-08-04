@@ -15,7 +15,6 @@
 webtalk_*
 *.runs/
 *.gen/
-*.srcs/
 *.data/
 *.d/
 *.sim/
