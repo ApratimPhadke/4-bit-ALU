@@ -58,23 +58,26 @@ This repository contains a **professional-grade 4-bit ALU** implemented in Veril
 
 ## 📁 Project Structure
 
-4bit-alu-verilog/
-├── 📄 README.md # This file
-├── 📄 instructions.txt # Installation & setup guide
-├── 📄 .gitignore # Git ignore rules
-├── 📄 LICENSE # MIT License
-├── 📂 src/
-│ ├── 🔧 alu_4bit.v # Main ALU module
-│ └── 🔧 alu_top.v # FPGA top-level wrapper
-├── 📂 tb/
-│ ├── 🧪 tb_alu_4bit.v # Comprehensive testbench
-│ └── 🧪 waveform_analysis.md # Waveform reading guide
-├── 📂 constraints/
-│ └── ⚙️ alu_constraints.xdc # FPGA pin constraints
-└── 📂 docs/
-├── 📊 waveforms/ # Simulation waveforms
-├── 🎯 design_spec.md # Detailed specifications
-└── 🚀 getting_started.md # Quick start guide
+## 📁 Project Structure
+
+| Directory/File | Description |
+|:---------------|:------------|
+| `src/` | Verilog source files |
+| `├── alu_4bit.v` | Main ALU module |
+| `├── alu_top.v` | FPGA top-level wrapper |
+| `tb/` | Testbench files |
+| `├── tb_alu_4bit.v` | Comprehensive testbench |
+| `├── waveform_analysis.md` | Waveform reading guide |
+| `constraints/` | FPGA constraint files |
+| `├── alu_constraints.xdc` | Pin constraints |
+| `docs/` | Documentation |
+| `├── design_spec.md` | Detailed specifications |
+| `├── getting_started.md` | Quick start guide |
+| `└── waveforms/` | Simulation waveforms |
+| `README.md` | This file |
+| `instructions.txt` | Installation guide |
+| `.gitignore` | Git ignore rules |
+| `LICENSE` | MIT License |
 
 
 ---
